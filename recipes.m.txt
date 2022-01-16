@@ -1,3 +1,15 @@
+╔═════════════════════════════════════╗
+║                                     ║
+║          COOKED THIS WEEK           ║
+║                                     ║
+╚═════════════════════════════════════╝
+
+╔═════════════════════════════════════╗
+║                                     ║
+║        TODO GET INGREDIENTS         ║
+║                                     ║
+╚═════════════════════════════════════╝
+
 ╔══════════ Baked broccoli ═══════════╗
 ║                Pre-heat 200°C      ↴║
 ║ 1 broccoli ─┬─ cover broccoli w/   ↴║
@@ -284,10 +296,12 @@
 ║       pepper ─┤        │            ║
 ║ 1tbsp tomato ─┤        │            ║
 ║       paste ──┘        │            ║
+║     1 beetroot ────── blend with ^ ↴║
 ║  1cup black beans ─── blend with ^ ↴║
 ║  1cup cooked brown ─┬─ mix w/      ↴║
 ║       rice ─────────┤  everything  ↴║
 ║ 1tbsp mayonaise ────┤  mk. patties ↴║
+║ 1tbsp worcester s. ─┤  mk. patties ↴║
 ║  1tsp liquid smoke ─┤  cook/bake    ║
 ║  ½cup gluten? ──────┘               ║
 ╚══ Source: https://bit.ly/3Emy1m6 ═══╝
