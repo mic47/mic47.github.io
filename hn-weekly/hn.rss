@@ -4,10 +4,87 @@
  <title>Popular tech links, weekly</title>
  <description>Popular tech links worth reading. Updated weekly. Only source is currently HN.</description>
  <link>https://mic47.github.io/hn-weekly/hn.rss</link>
- <lastBuildDate>Fri, 12 Aug 2022 11:24:11 -0000</lastBuildDate>
- <pubDate>Fri, 12 Aug 2022 11:24:11 -0000</pubDate>
+ <lastBuildDate>Fri, 19 Aug 2022 11:24:21 -0000</lastBuildDate>
+ <pubDate>Fri, 19 Aug 2022 11:24:21 -0000</pubDate>
  <ttl>1800</ttl>
  <item>
+<title>I hacked my car</title>
+<description>Popular link on hackernes now (published 2022-08-13, This week #1), got into popularity in these categores: This week (#1), This month (#31)</description>
+<pubDate>Fri, 19 Aug 2022 00:00:00 -0000</pubDate>
+<link>https://news.ycombinator.com/item?id=32447650</link>
+<guid isPermaLink="false">e60f142d095daadd395b107ef0bb0b290400206efabef0af33778b3a06c8862c</guid>
+</item>
+<item>
+<title>Twilio incident: What Signal users need to know</title>
+<description>Popular link on hackernes now (published 2022-08-15, This week #2), got into popularity in these categores: This week (#2), This month (#38)</description>
+<pubDate>Fri, 19 Aug 2022 00:00:00 -0000</pubDate>
+<link>https://news.ycombinator.com/item?id=32472412</link>
+<guid isPermaLink="false">cb1d8b0f95b521ddc9c0a6a3f7d5e3286a2f64ed578a623c64702db2e747a90f</guid>
+</item>
+<item>
+<title>Declining quality of consumer-grade products – 2009 fridge compressor autopsy</title>
+<description>Popular link on hackernes now (published 2022-08-14, This week #3), got into popularity in these categores: This week (#3), This month (#40)</description>
+<pubDate>Fri, 19 Aug 2022 00:00:00 -0000</pubDate>
+<link>https://news.ycombinator.com/item?id=32462954</link>
+<guid isPermaLink="false">6edc7122d7eabc5d4e136f473adcc736c7d8bab6a899cac6605d87b7d11267ac</guid>
+</item>
+<item>
+<title>The Zoom installer let a researcher hack his way to root access on macOS</title>
+<description>Popular link on hackernes now (published 2022-08-13, This week #4), got into popularity in these categores: This week (#4), This month (#42)</description>
+<pubDate>Fri, 19 Aug 2022 00:00:00 -0000</pubDate>
+<link>https://news.ycombinator.com/item?id=32447339</link>
+<guid isPermaLink="false">85570aea6e4fb6c16db93327e1f80ded31749ad54c4c3752b0c39c7a1272431a</guid>
+</item>
+<item>
+<title>Breaking all macOS security layers with a single vulnerability</title>
+<description>Popular link on hackernes now (published 2022-08-14, This week #5), got into popularity in these categores: This week (#5), This month (#46)</description>
+<pubDate>Fri, 19 Aug 2022 00:00:00 -0000</pubDate>
+<link>https://news.ycombinator.com/item?id=32464034</link>
+<guid isPermaLink="false">58edb1001a4db88d078ff2df1857d1624fb125cdc382f7a402ac60cb1fd469cd</guid>
+</item>
+<item>
+<title>Tell HN: Godaddy canceled my domain, gave me 2h to respond, then charged €150</title>
+<description>Popular link on hackernes now (published 2022-08-15, This week #6), got into popularity in these categores: This week (#6), This month (#49)</description>
+<pubDate>Fri, 19 Aug 2022 00:00:00 -0000</pubDate>
+<link>https://news.ycombinator.com/item?id=32470017</link>
+<guid isPermaLink="false">f00c5d4cdc1d7e93fbc5cfa38e148c8f945d129659cdb3bd3e871cf4965fd078</guid>
+</item>
+<item>
+<title>A little exercise each day improves muscles more than one big weekly workout</title>
+<description>Popular link on hackernes now (published 2022-08-16, This week #7), got into popularity in these categores: This week (#7), This month (#51)</description>
+<pubDate>Fri, 19 Aug 2022 00:00:00 -0000</pubDate>
+<link>https://news.ycombinator.com/item?id=32479659</link>
+<guid isPermaLink="false">3fc9506a602da5269316b23f85f34909b75bf53b2b9ea162dd8069d6f5ef13ce</guid>
+</item>
+<item>
+<title>Apple becomes first tech giant to explicitly ban caste discrimination</title>
+<description>Popular link on hackernes now (published 2022-08-16, This week #8), got into popularity in these categores: This week (#8), This month (#54)</description>
+<pubDate>Fri, 19 Aug 2022 00:00:00 -0000</pubDate>
+<link>https://news.ycombinator.com/item?id=32482007</link>
+<guid isPermaLink="false">e8f1eff8ca089c42eade34b509f6a4bccedc4662d53c0baf697354311cb57c88</guid>
+</item>
+<item>
+<title>How Discord supercharges network disks for extreme low latency</title>
+<description>Popular link on hackernes now (published 2022-08-15, This week #9), got into popularity in these categores: This week (#9), This month (#64)</description>
+<pubDate>Fri, 19 Aug 2022 00:00:00 -0000</pubDate>
+<link>https://news.ycombinator.com/item?id=32474093</link>
+<guid isPermaLink="false">a26fb59542d9c815294069d6e944ce4335d9c0163b858429fb760d3fa2bd9578</guid>
+</item>
+<item>
+<title>Add ability to choose a custom coordination server</title>
+<description>Popular link on hackernes now (published 2022-08-15, This week #10), got into popularity in these categores: This week (#10), This month (#66)</description>
+<pubDate>Fri, 19 Aug 2022 00:00:00 -0000</pubDate>
+<link>https://news.ycombinator.com/item?id=32468430</link>
+<guid isPermaLink="false">fa7cdf0e51a13df46d7648f58a3bd815b352e24e88b1116f908c6399500eef70</guid>
+</item>
+<item>
+<title>A 17-year-old designed a novel synchronous reluctance motor</title>
+<description>Popular link on hackernes now (published 2022-08-11, Week ago #8), got into popularity in these categores: Week ago (#8), This month (#23)</description>
+<pubDate>Fri, 19 Aug 2022 00:00:00 -0000</pubDate>
+<link>https://news.ycombinator.com/item?id=32426777</link>
+<guid isPermaLink="false">bdc6d35dcd05dd297d24d8076e510701208723c57d4cdcaa110087915f1b2d28</guid>
+</item>
+<item>
 <title>Ask HN: What are some cool but obscure data structures you know about?</title>
 <description>Popular link on hackernes now (published 2022-07-21, This month #1), got into popularity in these categores: This month (#1), 3 weeks ago (#1), This year (#17)</description>
 <pubDate>Fri, 12 Aug 2022 00:00:00 -0000</pubDate>
@@ -769,111 +846,6 @@
 <pubDate>Fri, 03 Jun 2022 00:00:00 -0000</pubDate>
 <link>https://news.ycombinator.com/item?id=31518618</link>
 <guid isPermaLink="false">6ed0d7c8b9795e10e89103a31de196eefb45c36ebc537499017261debb202984</guid>
-</item>
-<item>
-<title>The new and upgraded Framework Laptop</title>
-<description>Popular link on hackernes now (published 2022-05-19, This month #3), got into popularity in these categores: This month (#3), Week ago (#1), This year (#45)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31433556</link>
-<guid isPermaLink="false">9fe9dbc77a8582c4631d5928626db2e1772b353cb05e0c3d418793edef1cb9c1</guid>
-</item>
-<item>
-<title>“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti</title>
-<description>Popular link on hackernes now (published 2022-05-20, This month #8), got into popularity in these categores: This month (#8), This week (#1)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31449147</link>
-<guid isPermaLink="false">d0fff4129aa80d8aeb1aa7442d95aaa453d237442b271d8c413fd8a868911273</guid>
-</item>
-<item>
-<title>FTC fines Twitter $150M for using 2FA phone numbers for ad targeting</title>
-<description>Popular link on hackernes now (published 2022-05-25, This month #9), got into popularity in these categores: This month (#9), This week (#2)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31510865</link>
-<guid isPermaLink="false">3b3543af5b572b1f183742482db95b34c60bc940266c9d2268237d8852626762</guid>
-</item>
-<item>
-<title>Imagen, a text-to-image diffusion model</title>
-<description>Popular link on hackernes now (published 2022-05-23, This week #3), got into popularity in these categores: This week (#3), This month (#14)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31484562</link>
-<guid isPermaLink="false">7dc45a8c63daa2749012d17b709b55c7a4ead8597d85e640147418061ee68ac9</guid>
-</item>
-<item>
-<title>9-Euro-Ticket</title>
-<description>Popular link on hackernes now (published 2022-05-20, This week #4), got into popularity in these categores: This week (#4), This month (#18)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31445822</link>
-<guid isPermaLink="false">b4066c1a77f05b6930a500890ca7211367657114d165a5bf85db11f875a201b9</guid>
-</item>
-<item>
-<title>Ask HN: What game do you wish existed?</title>
-<description>Popular link on hackernes now (published 2022-05-25, This week #5), got into popularity in these categores: This week (#5), This month (#31)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31503201</link>
-<guid isPermaLink="false">f14bac1e8e8ea4b2dd048910422c6b3ad6ab1748581dd53c7f8feb2e21dd76db</guid>
-</item>
-<item>
-<title>YouTubeDrive: Store files as YouTube videos</title>
-<description>Popular link on hackernes now (published 2022-05-24, This week #6), got into popularity in these categores: This week (#6), This month (#39)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31495049</link>
-<guid isPermaLink="false">ff957d44c10a73788ac690f60a949c2dff483968f73a854c6e7d7f8e322eb453</guid>
-</item>
-<item>
-<title>Ancient civilisation under eastern Turkey estimated to be 11k-13k years old</title>
-<description>Popular link on hackernes now (published 2022-05-20, This week #7), got into popularity in these categores: This week (#7), This month (#42)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31452449</link>
-<guid isPermaLink="false">c51065f45b3fe2edbc524c2e985f67b52a86960d12f2f0ef0b1da570e4188c26</guid>
-</item>
-<item>
-<title>Lotus 1-2-3 For Linux</title>
-<description>Popular link on hackernes now (published 2022-05-21, This week #8), got into popularity in these categores: This week (#8), This month (#43)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31455968</link>
-<guid isPermaLink="false">f5986c06898ae7ab1283f209a4874eb329f1c9b416433d4ec6066068f75c1f1d</guid>
-</item>
-<item>
-<title>Donald Knuth on work habits, problem solving, and happiness (2020)</title>
-<description>Popular link on hackernes now (published 2022-05-23, This week #9), got into popularity in these categores: This week (#9), This month (#64)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31482116</link>
-<guid isPermaLink="false">04efc26ed4bfb5bfd01fafffbc2819a86f8fb386524bb894b9b37d6f16c175f9</guid>
-</item>
-<item>
-<title>Tell HN: Job interview canceled due to looming recession</title>
-<description>Popular link on hackernes now (published 2022-05-24, This week #10), got into popularity in these categores: This week (#10), This month (#71)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31494417</link>
-<guid isPermaLink="false">687b4b854d8459f30232a89999e46c3f4fe9da37a184d4eb50e116089bac9dd4</guid>
-</item>
-<item>
-<title>I spent two years launching tiny projects</title>
-<description>Popular link on hackernes now (published 2022-05-18, Week ago #4), got into popularity in these categores: Week ago (#4), This month (#16)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31421364</link>
-<guid isPermaLink="false">37d7aa56e2c93aa1912381b9ce468511637cb188c631ec383c9df6f1d6e31922</guid>
-</item>
-<item>
-<title>Vangelis has died</title>
-<description>Popular link on hackernes now (published 2022-05-19, Week ago #5), got into popularity in these categores: Week ago (#5), This month (#28)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31437226</link>
-<guid isPermaLink="false">675dda1aedda9dd2ab911c2ecbcfd64fffcd6cd058f62198f0b6c843ef74a929</guid>
-</item>
-<item>
-<title>Billing systems are a nightmare for engineers</title>
-<description>Popular link on hackernes now (published 2022-05-18, Week ago #6), got into popularity in these categores: Week ago (#6), This month (#30)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31424450</link>
-<guid isPermaLink="false">02ee8168827f216a6573399a3ad2bb7987e100911cd993ae331cac2d75eec2d8</guid>
-</item>
-<item>
-<title>Outhorse Your Email</title>
-<description>Popular link on hackernes now (published 2022-05-19, Week ago #8), got into popularity in these categores: Week ago (#8), This month (#38)</description>
-<pubDate>Fri, 27 May 2022 00:00:00 -0000</pubDate>
-<link>https://news.ycombinator.com/item?id=31432573</link>
-<guid isPermaLink="false">01623b6e0618a75ca8f6e7cc57deca0191c1f7f40cfffdb493d9614fef2a7ca2</guid>
 </item>
 
     </channel>
