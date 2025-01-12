@@ -1,0 +1,536 @@
+╔═════════════════════════════════════╗
+║                                     ║
+║          COOKED THIS WEEK           ║
+║                                     ║
+╚═════════════════════════════════════╝
+
+╔═════════════════════════════════════╗
+║                                     ║
+║        TODO GET INGREDIENTS         ║
+║                                     ║
+╚═════════════════════════════════════╝
+
+╔════════ 1 hour pizza dough ═════════╗
+║180g warm   ┌┬ Mix into dough        ║
+║     beer ──┤├ Ferment for 15m       ║
+║ 10g yeast ─┤├ 4x stretch & fold     ║
+║  5g sugar ─┤├ Ferment for 15m       ║
+║  9g salt ──┤├ To oiled pan, de-gas,↴║
+║ 15g olive  ││ stretch, ferment 10m  ║
+║     oil ───┤├ Stretch, build pizza  ║
+║280g flour ─┘├ Ferment for 10-15m    ║
+║             └ Bake at 258C for 17m  ║
+╚══ Source: bit.ly/3ZfXfgg ═══════════╝
+
+╔══════════ Baked broccoli ═══════════╗
+║1 brocolli ┬┬ Cover broccoli w/     ↴║
+║  cheese ──┤│ cheese in dish         ║
+║  pepper ──┤├ Season, add cream      ║
+║  cream ───┘└ Bake til done, 200C    ║
+╚═════════════════════════════════════╝
+
+╔══════════ Bar Style Pizza ══════════╗
+╟─ dough ─────────────────────────────╢
+║300g water ─┬┬ Mix into dough        ║
+║ 40g olive  │├ Divide into 4 pieces  ║
+║     oil ───┤├ Fold twice, roll ball ║
+║  6g yeast ─┤├ Put to oiled         ↴║
+║525g flour ─┤│ containers            ║
+║ 10g salt ──┘└ Leave for 30m         ║
+╟─ fermented dough ───────────────────╢
+║1 dough ── Into fridge for 1-5d      ║
+╟─ pizza ─────────────────────────────╢
+║1 fermented ┌┬ On counter for 90m    ║
+║  dough ────┘├ Roll, holes, assemble ║
+║             └ Bake for 11m          ║
+╚══ Source: bit.ly/3Z1ioen ═══════════╝
+
+╔═══════ Beetroot puff pastry ════════╗
+╟─ beet mix ──────────────────────────╢
+║    4 shredded beetroot ┬┬ Heat on  ↴║
+║    1 lemon juice ──────┤│ olive oil ║
+║   tt rosemary ─────────┤└ Stir     ↴║
+║   tt black pepper ─────┤  sometimes↴║
+║   tt garlic ───────────┤  til done  ║
+║2tbsp olive oil ────────┘            ║
+╟─ pastry ────────────────────────────╢
+║ 1 puff pastry ┬┬ Cream on pastry,  ↴║
+║ 1 cream ──────┤│ rosemary, salt     ║
+║ 1 beet mix ───┤├ Spread beet mix,  ↴║
+║ 1 rosemary ───┤│ add goat cheese    ║
+║ 1 goat cheese ┤├ Roll, bake, RTFM   ║
+║tt salt ───────┤└ Spread egg on top ↴║
+║ 1 egg ────────┘  during baking      ║
+╚═════════════════════════════════════╝
+
+╔════════════ Bread buns ═════════════╗
+╟─ dough ─────────────────────────────╢
+║150ml milk ───┬┬ Warm up milk & melt↴║
+║  12g butter ─┤│ butter              ║
+║ 250g flower ─┤├ Mix all into dough,↴║
+║   7g salt ───┤│ split to 5-6        ║
+║   3g sugar ──┤├ Flatten, rest 10min ║
+║ 3.5g dried   │└ Flip & rest 15min   ║
+║      yeast ──┘                      ║
+╟─ buns ───────────── pre-heat: 220C ─╢
+║    1 dough ───┬┬ Cover bun w/ egg &↴║
+║    1 egg ─────┤│ garnish, rest     ↴║
+║pinch sea salt ┤│ 15min              ║
+║  10g sesame ──┘└ Bake 10min at 220C ║
+╚══ Source: https://bit.ly/3cyilzw ═══╝
+
+╔════════════ Burger buns ════════════╗
+╟─ dough ─────────────────────────────╢
+║ 500g flower ┬┬ Milk w/ water to    ↴║
+║100ml milk ──┤│ 50C, add butter,    ↴║
+║200ml water ─┤│ cool to 35C          ║
+║  50g butter ┤├ Mix all, make dough;↴║
+║  40g sugar ─┤│ low speed 3min,     ↴║
+║  1pc eggs ──┤│ medium speed 9min    ║
+║   9g dried  │├ Into closed oiled   ↴║
+║      yeast ─┤│ container for 1h     ║
+║   9g salt ──┤└ Deflate, into 70g   ↴║
+║2tbsp oil ───┘  pieces, make balls.  ║
+╟─ bun ────────────── pre-heat: 210C ─╢
+║  1 dough ─┬┬ 20min covered in s.pan ║
+║ tt sesame ┤├ Add beaten egg, sesame ║
+║1pc egg ───┘└ Bake 15-20min, rest    ║
+╚══ Source: internet ═════════════════╝
+
+╔═══════════ Cabbage soup ════════════╗
+║ beans ────────┬┬ Cook beans til    ↴║
+║ sauerkraut ───┤│ almost done        ║
+║ paprika ──────┤├ Add sauerkraut     ║
+║ salt & pepper ┤└ Season to taste    ║
+║ vinegar ──────┘                     ║
+╚═════════════════════════════════════╝
+
+╔═════════ Cauliflower curry ═════════╗
+║1tbsp oil ──────────┬┬ Dice & fry   ↴║
+║    2 onion ────────┤│ veggies       ║
+║    2 carrot ───────┤├ Add liquids &↴║
+║    1 cauliflower ──┤│ spices        ║
+║200ml stock ────────┤└ Cook til done ║
+║   tt curry or      │                ║
+║      spice mix ────┤                ║
+║   tt salt & pepper ┘                ║
+╚═════════════════════════════════════╝
+
+╔═════════════ Cold brew ═════════════╗
+╟─ coffee ────────────────────────────╢
+║ 1 coffee ┬┬ Coarse grind            ║
+║10 water ─┘└ Steep for 12h           ║
+╟─ tea ───────────────────────────────╢
+║ tea ── Steep for 6-24h              ║
+╟─ cocoa ─────────────────────────────╢
+║ cocoa nib ─┬ Coarse grind           ║
+║            └ Steep for 24h          ║
+╟─ namibian cold brew ────────────────╢
+║ instant coffee ┬─ Mix in plastic   ↴║
+║ cold water ────┘  bottle            ║
+╚═════════════════════════════════════╝
+
+╔═══════════════ Curry ═══════════════╗
+╟─ base ──────────────────────────────╢
+║  2pc onion ───┬┬ Saute onion on oil ║
+║  2cl garlic ──┤├ Add diced carrot, ↴║
+║3tbsp curry ───┤│ caramelize         ║
+║ 1tsp cinnamon ┤└ Add rest, cook    ↴║
+║ 1tsp paprika ─┤  2min               ║
+║  2pc bay leaf ┤                     ║
+║  1in ginger ──┤                     ║
+║   tt salt ────┤                     ║
+║  1pc carrot ──┘                     ║
+╟─ curry ─────────────────────────────╢
+║    1 base ────────┬┬ Simmer base,  ↴║
+║ 500g protein-like ┤│ protein, milk,↴║
+║1tbsp tomato paste ┤│ tomato/paste, ↴║
+║ 1can coconut milk ┤│ yogurt ~20min. ║
+║ 200g tomatoes? ───┤└ remove bay,   ↴║
+║ 1cup yogurt? ─────┤  add juice,    ↴║
+║ ½ pc lemon juice ─┤  pepper         ║
+║½ tsp cayenne ppr ─┘                 ║
+╚═════════════════════════════════════╝
+
+╔═══════════════ Dhall ═══════════════╗
+║1tbsp oil ────────────┬┬ Fry diced  ↴║
+║    2 onion ──────────┤│ onions &   ↴║
+║    1 carrot ─────────┤│ carrot      ║
+║    1 eggplant ───────┤├ + diced    ↴║
+║ 1can tomatoes ───────┤│ eggplant    ║
+║   tt curry or else ──┤├ + spices    ║
+║   tt basil & oregano ┤└ + lentils, ↴║
+║   tt chilly flakes ──┤  cover and  ↴║
+║   tt salt & pepper ──┤  cook til   ↴║
+║ 1cup lentils ────────┘  done        ║
+╚═════════════════════════════════════╝
+
+╔═════════ Eggplant miracle ══════════╗
+╟─ sauce ─────────────────────────────╢
+║     2 tinned tomatoes ┬┬ Dice what ↴║
+║     1 tinned beans ───┤│ needs it   ║
+║  1bag olives ─────────┤└ Boil in   ↴║
+║    tt dried tomatoes ─┤  pan        ║
+║lot of herbs ──────────┘             ║
+╟─ dish ──────────────────────────────╢
+║ 2 eggplant ┬┬ Alternate sliced     ↴║
+║tt cheese ──┤│ layers                ║
+║ 1 sauce ───┘└ Cover, bake til done  ║
+╚═════════════════════════════════════╝
+
+╔══════════ Eggplant pizza ═══════════╗
+║1pc eggplant ────┬┬ Eggplant thin   ↴║
+║  1 pesto or     ││ slices           ║
+║    tomato sauce ┤├ Paste on top     ║
+║ tt tomatoes ────┤├ Add veggies      ║
+║ tt bell pepper ─┤├ Bake 15min, 160C ║
+║ tt herbs ───────┤└ Add cheese, bake↴║
+║ tt cheese ──────┘  til melted       ║
+╚══ Source: https://bit.ly/3GifLuT ═══╝
+
+╔════════════ Fried tofu ═════════════╗
+║  400g tofu ───┬┬ Use frozen & thawn↴║
+║1/2tsp salt ───┤│ tofu               ║
+║1/2tsp pepper ─┤├ Dry & squeeze &   ↴║
+║1/2tsp garlic  ││ dice tofu          ║
+║       powder ─┤├ Mix powders, coat ↴║
+║1/4tsp CN 5spc ┤│ tofu               ║
+║ 3tbsp starch ─┤└ Fry on oil 5-9    ↴║
+║ 3tbsp oil ────┘  minutes            ║
+╚══ Source: https://bit.ly/3SaygdM ═══╝
+
+╔══════ Generic vegetable soup ═══════╗
+║ frozen veggies ┬─ into put with    ↴║
+║ spices ────────┘  water, cook       ║
+╚═════════════════════════════════════╝
+
+╔════════════ Ginger beer ════════════╗
+╟─ bug ───────────────────────────────╢
+║500ml water ─┬─ For 2-4 days add    ↴║
+║  22g ginger ┤  more ginger & sugar ↴║
+║  28g sugar ─┘  into water, stir     ║
+╟─ ginger beer ───────────────────────╢
+║  2l water ──┬┬ Boil water, ginger, ↴║
+║ 54g ginger ─┤│ sugar for 5min       ║
+║170g sugar ──┤├ Cool to room temp    ║
+║110g bug ────┤├ Combine all, bottle  ║
+║   3 juiced  │├ Burp daily at room  ↴║
+║     lemons ─┘│ temp for 3-6d        ║
+║              └ Move to fridge       ║
+╚══ Source: https://bit.ly/3olYN8H ═══╝
+
+╔═════════════ Guacamole ═════════════╗
+║    1 lime ───────────┬┬ Juice      ↴║
+║    3 avocado ────────┤│ lemon, dice↴║
+║3tbsp cilantro leaves ┤│ rest        ║
+║    1 onion ──────────┤└ Mix in bowl↴║
+║    1 tomato ─────────┤  or use food↴║
+║   tt salt ───────────┤  processor   ║
+║   tt cayenne pepper ─┤              ║
+║   tt garlic powder ──┘              ║
+╚═════════════════════════════════════╝
+
+╔═══════════ Hokkaido soup ═══════════╗
+║3tbsp oil ──────┬┬ Dice squash, fry ↴║
+║  1pc hokkaido  ││ in pot            ║
+║      squash ───┤├ Add water, 1cm   ↴║
+║ 1-2L stock ────┤│ above squash      ║
+║  3pc garlic ───┤├ Season            ║
+║   tt salt ─────┤├ Cook for 30-60min ║
+║   tt pepper ───┘└ Blend             ║
+╚══ Source: https://bit.ly/3rdkolz ═══╝
+
+╔══════════════ Hummus ═══════════════╗
+╟─ peas ──────────────────────────────╢
+║ chickpeas ──┬─ Cook                 ║
+║ baking soda ┘                       ║
+╟─ hummus ────────────────────────────╢
+║   60ml lemon juice ┬┬ Process all  ↴║
+║   60ml tahini ─────┤│ in food      ↴║
+║    1pc garlic ─────┤│ processor,   ↴║
+║   30ml olive oil ──┤│ slowly adding↴║
+║1/2tbsp ground      ││ peas, until  ↴║
+║        cumin ──────┤│ smooth        ║
+║ 1/2tsp salt ───────┤└ Add paprika, ↴║
+║   dash paprika ────┤  water,       ↴║
+║2-3tbsp water ──────┘  process again ║
+╚══ Source: https://bit.ly/3rBU6K3 ═══╝
+
+╔══════════════ Kimchi ═══════════════╗
+╟─ cabbage ───────────────────────────╢
+║1 napa cabbage ┬┬ Cut, heavily salt,↴║
+║  salt ────────┘│ squeeze            ║
+║                ├ Leave for 30min-1h ║
+║                └ Rinse              ║
+╟─ paste ─────────────────────────────╢
+║   1 asian pear ───┬─ blend into    ↴║
+║ 6pc garlic ───────┤  paste, then   ↴║
+║ 82g ginger ───────┤  add chilli     ║
+║60ml fish sauce ───┤                 ║
+║ 30g chilli flakes ┘                 ║
+╟─ kimchi ────────────────────────────╢
+║2 carrot ┬┬ Cut, add cabage & paste,↴║
+║1 radish ┤│ fill container           ║
+║5 green  │├ Muddle to remove air,   ↴║
+║  onion ─┘│ liquid should cover top  ║
+║          ├ At room temp for 4-7days ║
+║          └ Move to fridge           ║
+╚══ Source: https://bit.ly/3oluf8k ═══╝
+
+╔═══════════ Leek patties ════════════╗
+╟─ base ──────────────────────────────╢
+║  2pc leek ───┬┬ Dice                ║
+║ 1bag spinach ┤├ Heat until soft     ║
+║3tbsp stock ──┘└ Cool                ║
+╟─ patties ────────── pre-heat: 180C ─╢
+║ 1 base ─────────┬┬ Make patties     ║
+║tt mustard ──────┤├ Bake at 180C     ║
+║tt almond flower ┤└ Or skip egg &   ↴║
+║ 3 egg ──────────┘  bake             ║
+╚═════════════════════════════════════╝
+
+╔════════ Millet w/ zucchini ═════════╗
+║2 zucchini ┬┬ Cook zuccini, onion,  ↴║
+║1 onion ───┤│ stock in pan til soft  ║
+║  stock ───┤├ Add dices tomatoes,   ↴║
+║  tomatoes ┤│ millet, water          ║
+║  millet ──┤├ Cover, cook til done   ║
+║  cheese ──┘└ Add cheese til melts   ║
+╚═════════════════════════════════════╝
+
+╔═════════════ Pea mash ══════════════╗
+║ pea ───┬┬ Cook til done, blend      ║
+║ stock ─┤└ Water level 1cm above    ↴║
+║ chilli ┤  pea, if dry pea then     ↴║
+║ pepper ┘  higher                    ║
+╚═════════════════════════════════════╝
+
+╔══════════ Pickled veggies ══════════╗
+╟─ brine ─────────────────────────────╢
+║ 1cup vinegar ┬─ Bring to boil       ║
+║ 2cup water ──┤                      ║
+║3tbsp salt ───┤                      ║
+║ some spices ─┘                      ║
+╟─ pickles ───────────────────────────╢
+║bunch veggie ┌┬ Shred veggies to jar ║
+║      s ─────┤├ Cover w/ hot brine   ║
+║    1 brine ─┘└ Close, 1w in fridge  ║
+╚══ Source: https://bit.ly/3pq8hin ═══╝
+
+╔════════════ Pizza dough ════════════╗
+║  250g flour ────┬┬ Mix 1/2 flour w/↴║
+║packet yeast ────┤│ rest, make dough↴║
+║1.5tsp sugar ────┤│ adding flour     ║
+║3/4tsp salt ─────┤├ Raise 30min      ║
+║       basil /   │├ Deflate, knead  ↴║
+║       oregano ──┤│ 3-5x             ║
+║1/2tsp garlic    │├ Make pizza,     ↴║
+║       powder ───┤│ brush w/ oil,   ↴║
+║ 2tbsp olive oil ┤│ poke holes       ║
+║       warm      │└ Add toppings,   ↴║
+║       water ────┘  bake for 14min   ║
+╚══ Source: https://bit.ly/3oov8vo ═══╝
+
+╔════════════ Pizza sauce ════════════╗
+║2-3 onion ──────────┬┬ Dice onions, ↴║
+║  1 tinned tomatoes ┤│ caramelize    ║
+║    basil & oregano ┘└ + rest, boil  ║
+╚═════════════════════════════════════╝
+
+╔═════════ Pull apart pizza ══════════╗
+║ pizza     ┌┬ Fill dough w/ cheese, ↴║
+║ dough ────┤│ toppings               ║
+║ olive oil ┤├ Close, cover w/ oil    ║
+║ toppings ─┤├ Assemble in dish       ║
+║ cheese ───┘├ Bake at 35min at 180C  ║
+║            └ Serve w/ pizza sauce   ║
+╚══ Source: https://bit.ly/3plOiS4 ═══╝
+
+╔═══════════════ Salsa ═══════════════╗
+║   500g tomatoes ─────┬┬ Chop in 1s ↴║
+║      2 green onions ─┤│ pulses in  ↴║
+║1/3 cup red onion ────┤│ food       ↴║
+║      1 jalapeno ─────┤│ processor   ║
+║1/2 cup cilantro ─────┤└ Or chop    ↴║
+║  2tbsp lime juice ───┤  finely      ║
+║ 1/2tsp chilli powder ┤              ║
+║ 1/2tsp ground cumin ─┤              ║
+║     tt garlic powder ┤              ║
+║     tt salt & pepper ┘              ║
+╚══ Source: https://bit.ly/3oopQ3l ═══╝
+
+╔═════════════ Shortcuts ═════════════╗
+║  ff fist full                       ║
+║  tt to taste                        ║
+║tbsp table spoon                     ║
+║ tsp tea spoon                       ║
+║  pc piece                           ║
+╚═════════════════════════════════════╝
+
+╔════════════ Smoothie 1 ═════════════╗
+║  1/2 beetroot ───────┬┬ Dice &     ↴║
+║    1 carrot ─────────┤│ freeze     ↴║
+║    1 apple ──────────┤│ produce     ║
+║    1 lime ───────────┤└ Mix water  ↴║
+║2tbsp honey ──────────┤  with frozen↴║
+║2tbsp aloe vera juice ┤  produce in ↴║
+║ 1cup water ──────────┘  blender     ║
+╚══ Source: bit.ly/3ZpeNX0 ═══════════╝
+
+╔════════════ Smoothie 2 ═════════════╗
+║    1 cucumber ───────┬┬ Dice &     ↴║
+║   ff parsley leaves ─┤│ freeze     ↴║
+║    1 lemon ──────────┤│ produce     ║
+║  5cm ginger ─────────┤└ Mix water  ↴║
+║2tbsp aloe vera juice ┤  with frozen↴║
+║    1 apple ──────────┤  produce in ↴║
+║ 1cup water ──────────┘  blender     ║
+╚══ Source: bit.ly/3ZpeNX0 ═══════════╝
+
+╔════════════ Smoothie 3 ═════════════╗
+║    1 pear ──────────┬┬ Dice &      ↴║
+║  1/2 avocado ───────┤│ freeze      ↴║
+║   ff celery with    ││ produce      ║
+║      greens ────────┤└ Mix water   ↴║
+║  1/2 mango ─────────┤  with frozen ↴║
+║ 1tsp cinamon ───────┤  produce in  ↴║
+║  5cm ginger ────────┤  blender      ║
+║1tbsp honey ─────────┤               ║
+║ 1cup water ─────────┘               ║
+╚══ Source: bit.ly/3ZpeNX0 ═══════════╝
+
+╔════════════ Smoothie 4 ═════════════╗
+║    1 cucumber ┬┬ Dice & freeze     ↴║
+║  5cm ginger ──┤│ produce            ║
+║  1/2 mango ───┤└ Mix water with    ↴║
+║  2cm turmeric ┤  frozen produce in ↴║
+║    1 apple ───┤  blender            ║
+║2tbsp honey ───┤                     ║
+║ 1cup water ───┘                     ║
+╚══ Source: bit.ly/3ZpeNX0 ═══════════╝
+
+╔════════════ Smoothie 5 ═════════════╗
+║   1 apple ───┬┬ Dice & freeze      ↴║
+║   1 orange ──┤│ produce             ║
+║   1 banana ──┤└ Mix water with     ↴║
+║ 1/2 beetroot ┤  frozen produce in  ↴║
+║ 2cm turmeric ┤  blender             ║
+║   1 pear ────┤                      ║
+║1cup water ───┘                      ║
+╚══ Source: bit.ly/3ZpeNX0 ═══════════╝
+
+╔════════════ Smoothie 6 ═════════════╗
+║    1 cucumber ────┬┬ Dice & freeze ↴║
+║    1 apple ───────┤│ produce        ║
+║   ff baby spinach ┤└ Mix water with↴║
+║  5cm ginger ──────┤  frozen produce↴║
+║    1 pear ────────┤  in blender     ║
+║    1 carrot ──────┤                 ║
+║  1/2 avocado ─────┤                 ║
+║2tbsp honey ───────┤                 ║
+║ 1cup water ───────┘                 ║
+╚══ Source: bit.ly/3ZpeNX0 ═══════════╝
+
+╔════════════ Smoothie 7 ═════════════╗
+║   1 apple ─────────┬┬ Dice & freeze↴║
+║ 1/2 beetroot ──────┤│ produce       ║
+║  ff baby spinach ──┤└ Mix water    ↴║
+║  ff parsley leaves ┤  with frozen  ↴║
+║  ff spearmint ─────┤  produce in   ↴║
+║   1 lime ──────────┤  blender       ║
+║1cup water ─────────┘                ║
+╚══ Source: bit.ly/3ZpeNX0 ═══════════╝
+
+╔═══════════════ Steak ═══════════════╗
+║52-55C rare ───────┬┬ Dry meat       ║
+║55-60C medium rare ┤├ Season well   ↴║
+║60-65C medium ─────┤│ with salt      ║
+║65-71C medium well ┤├ Cook til temp  ║
+║  71+C well done ──┘└ Rest 10min     ║
+╚═════════════════════════════════════╝
+
+╔══════════ Stir fried tofu ══════════╗
+╟─ sauce ─────────────────────────────╢
+║1.5tbsp soy sauce ───┬─ Mix to      ↴║
+║1.5tbsp rice vinegar ┤  combine      ║
+║  2tbsp hoisin souce ┤               ║
+║  2tbsp mirin ───────┤               ║
+║  1tbsp sugar ───────┤               ║
+║  1tbsp chilli sauce ┤               ║
+║  3tbsp veggie broth ┘               ║
+╟─ starch water ──────────────────────╢
+║ 1tsp corn starch ┬─ stir til       ↴║
+║1tbsp water ──────┘  dissolved       ║
+╟─ stir fry ──────────────────────────╢
+║    1 sauce ───┬┬ Stir fry, on high: ║
+║    1 fried    │├ Garlic & ginger   ↴║
+║      tofu ────┤│ for 30s            ║
+║    1 starch   │├ Hard vegs for     ↴║
+║      water ───┤│ 1-2min             ║
+║  2in ginger ──┤├ Soft vegs for     ↴║
+║  4pc garlic ──┤│ 1-1.5min           ║
+║ 500g veggies ─┤├ Add sauce for     ↴║
+║1tbsp oil ─────┤│ 2.5min             ║
+║  12g cilantro ┤├ Tender vegs for   ↴║
+║ 2tsp sesame   ││ 30s                ║
+║      seeds ───┤├ Starch water, stir↴║
+║ 2tsp sesame   ││ til thick.         ║
+║      oil ─────┘└ Add tofu, garnish  ║
+╚══ Source: https://bit.ly/3SaygdM ═══╝
+
+╔════════ Stir fried veggies ═════════╗
+╟─ sauce ─────────────────────────────╢
+║50g soy sauce ───┬─ Mix to combine   ║
+║50g mirin ───────┤                   ║
+║ 5g rice vinegar ┤                   ║
+║20g sugar ───────┤                   ║
+║40g stock ───────┤                   ║
+║ 4g corn starch ─┘                   ║
+╟─ stir fry ──────────────────────────╢
+║   1 sauce ───┬┬ In batches do:      ║
+║500g 3+       │├ Mid-high heat, oil ↴║
+║     veggie   ││ & veggies with salt↴║
+║     types ───┤│ for few mins        ║
+║  5g shredded │├ Cover w/ tin foil  ↴║
+║     garlic ──┤│ for 90s             ║
+║  5g shredded │├ Ginger, garlic      ║
+║     ginger ──┘└ Sauce 30s til thick ║
+╚══ Source: bit.ly/3EDaejS ═══════════╝
+
+╔══════════ Vegetable stock ══════════╗
+║1tbsp olive oil ───┬┬ Dice veggies, ↴║
+║    2 onion ───────┤│ cook with     ↴║
+║    2 celery stalk ┤│ herbs on high ↴║
+║    2 carrot ──────┤│ for 10m        ║
+║    5 green onion ─┤├ Stir often     ║
+║  5pc garlic ──────┤└ Add salt,     ↴║
+║      parsley ─────┤  water, cook   ↴║
+║      thyme ───────┤  30m            ║
+║    2 bay leaf ────┤                 ║
+║ 1tsp salt ────────┘                 ║
+╚═════════════════════════════════════╝
+
+╔═══════ Veggie burger pattie ════════╗
+╟─ mushrooms ─────────────────────────╢
+║   1cup walnuts ──┬┬ Put walnuts &  ↴║
+║   1cup mushroom ─┤│ mushrooms in   ↴║
+║        olive oil ┤│ food processor  ║
+║  2tbsp soy sauce ┤└ Heat, add soy  ↴║
+║1/2tbsp cumin ────┘  sauce & cumin   ║
+╟─ onions ────────────────────────────╢
+║    1 onion ───────┬┬ Dice, heat on ↴║
+║  2pc garlic ──────┤│ pan            ║
+║ 1tsp salt ────────┤└ Add seasoning  ║
+║      pepper ──────┤                 ║
+║1tbsp tomato paste ┘                 ║
+╟─ patties ───────────────────────────╢
+║     1 beetroot ─────┬┬ Blend onions↴║
+║  1cup black beans ──┤│ & mushrooms ↴║
+║  1cup cooked brown  ││ with beet & ↴║
+║       rice ─────────┤│ beans        ║
+║ 1tbsp mayonnaise ───┤├ Add rice &  ↴║
+║ 1tbsp worcester s. ─┤│ rest         ║
+║  1tsp liquid smoke ─┤└ Make patties↴║
+║1/2cup gluten ───────┘  & cook/bake  ║
+╚══ Source: https://bit.ly/3Emy1m6 ═══╝
+
