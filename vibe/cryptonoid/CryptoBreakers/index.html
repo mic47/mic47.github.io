@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CryptoBreaker - Top-Aligned Orderbook Towers</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="game-header">
+            <h1>CryptoBreaker</h1>
+            <p>Break the top-aligned orderbook towers with your paddle!</p>
+        </header>
+
+        <div class="game-controls">
+            <div class="form-group">
+                <label for="symbolSelect" class="form-label">Select Cryptocurrency:</label>
+                <select id="symbolSelect" class="form-control">
+                    <option value="bitcoin">Bitcoin (BTC)</option>
+                    <option value="ethereum">Ethereum (ETH)</option>
+                    <option value="cardano">Cardano (ADA)</option>
+                    <option value="solana">Solana (SOL)</option>
+                    <option value="dogecoin">Dogecoin (DOGE)</option>
+                </select>
+            </div>
+            <button id="startBtn" class="btn btn--primary">Start Game</button>
+            <button id="pauseBtn" class="btn btn--secondary" disabled>Pause</button>
+        </div>
+
+        <div class="game-info">
+            <div class="info-panel">
+                <div class="stat">
+                    <label>Score:</label>
+                    <span id="score">0</span>
+                </div>
+                <div class="stat">
+                    <label>Level:</label>
+                    <span id="level">1</span>
+                </div>
+                <div class="stat">
+                    <label>Symbol:</label>
+                    <span id="currentSymbol">BTC</span>
+                </div>
+                <div class="stat">
+                    <label>Lives:</label>
+                    <span id="lives">3</span>
+                </div>
+                <div class="stat">
+                    <label>Blocks:</label>
+                    <span id="blocksRemaining">0</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="game-container">
+            <canvas id="gameCanvas" width="800" height="600"></canvas>
+            <div id="gameOverlay" class="game-overlay">
+                <div id="loadingMessage" class="overlay-message">
+                    <h3>Loading orderbook data...</h3>
+                    <div class="loading-spinner"></div>
+                </div>
+                <div id="gameOverMessage" class="overlay-message hidden">
+                    <h3>Game Over!</h3>
+                    <p>Final Score: <span id="finalScore">0</span></p>
+                    <button id="restartBtn" class="btn btn--primary">Play Again</button>
+                </div>
+                <div id="levelCompleteMessage" class="overlay-message hidden">
+                    <h3>Level Complete!</h3>
+                    <p>All towers destroyed! Loading next level...</p>
+                </div>
+                <div id="pauseOverlay" class="overlay-message hidden">
+                    <h3>Game Paused</h3>
+                    <p>Press SPACE to resume or click the pause button</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="game-instructions">
+            <h3>How to Play</h3>
+            <ul>
+                <li><strong>Arrow Keys:</strong> Move paddle left and right</li>
+                <li><strong>Space:</strong> Pause/Resume game</li>
+                <li><strong>Green towers (Left):</strong> Bid orders - highest to lowest price</li>
+                <li><strong>Red towers (Right):</strong> Ask orders - lowest to highest price</li>
+                <li><strong>Goal:</strong> Destroy all individual blocks from the top-aligned towers!</li>
+                <li>Each block represents 0.1 units of the cryptocurrency</li>
+                <li>Towers grow downward from the top of the orderbook area</li>
+            </ul>
+        </div>
+
+        <div class="api-status">
+            <p id="apiStatus" class="status status--info">Ready to fetch orderbook data</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
