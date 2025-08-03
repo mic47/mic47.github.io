@@ -47,7 +47,7 @@ main {
 }
 
 /* Blog section styles */
-.blog-section {
+.colapse-section {
     margin-bottom: 1em;
     border: 0.1em solid #ddd;
     border-radius: 0.5em;
@@ -56,13 +56,13 @@ main {
     transition: all 0.3s ease;
 }
 
-.blog-section:hover {
+.colapse-section:hover {
     box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.15);
     transform: translateY(-0.1em);
 }
 
 /* Summary (clickable header) styles */
-.blog-section summary {
+.colapse-section summary {
     padding: 1em 1.2em;
     font-size: 1.3em;
     font-weight: bold;
@@ -76,7 +76,7 @@ main {
 }
 
 /* Custom arrow for summary */
-.blog-section summary::before {
+.colapse-section summary::before {
     content: "▶";
     display: inline-block;
     margin-right: 0.5em;
@@ -84,45 +84,45 @@ main {
     color: #2c5aa0;
 }
 
-.blog-section[open] summary::before {
+.colapse-section[open] summary::before {
     transform: rotate(90deg);
 }
 
-.blog-section summary:hover {
+.colapse-section summary:hover {
     background: linear-gradient(135deg, #e9ecef, #dee2e6);
     color: #1a4480;
 }
 
 /* Remove default browser triangle */
-.blog-section summary::-webkit-details-marker {
+.colapse-section summary::-webkit-details-marker {
     display: none;
 }
 
-.blog-section summary::marker {
+.colapse-section summary::marker {
     content: "";
 }
 
 /* Content area styles */
-.blog-section .content {
+.colapse-section .content {
     padding: 0 1.2em 1.2em 1.2em;
     border-top: 0.1em solid #f0f0f0;
     background-color: #fff;
 }
 
-.blog-section .content p {
+.colapse-section .content p {
     margin-bottom: 1em;
     line-height: 1.7;
 }
 
-.blog-section .content p:last-child {
+.colapse-section .content p:last-child {
     margin-bottom: 0;
 }
 
-.blog-section .content strong {
+.colapse-section .content strong {
     color: #2c5aa0;
 }
 
-.blog-section .content code {
+.colapse-section .content code {
     background-color: #f8f9fa;
     padding: 0.2em 0.4em;
     border-radius: 0.3em;
@@ -150,12 +150,12 @@ footer {
         font-size: 2em;
     }
     
-    .blog-section summary {
+    .colapse-section summary {
         font-size: 1.1em;
         padding: 0.8em 1em;
     }
     
-    .blog-section .content {
+    .colapse-section .content {
         padding: 0 1em 1em 1em;
     }
 }
@@ -165,24 +165,24 @@ footer {
         font-size: 1.8em;
     }
     
-    .blog-section summary {
+    .colapse-section summary {
         font-size: 1em;
         padding: 0.7em 0.8em;
     }
     
-    .blog-section .content {
+    .colapse-section .content {
         padding: 0 0.8em 0.8em 0.8em;
     }
 }
 
 /* Focus styles for accessibility */
-.blog-section summary:focus {
+.colapse-section summary:focus {
     outline: 0.2em solid #2c5aa0;
     outline-offset: 0.1em;
 }
 
 /* Animation for opening/closing */
-.blog-section[open] .content {
+.colapse-section[open] .content {
     animation: slideDown 0.3s ease;
 }
 

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Simple Blog</title>
+  <link rel="stylesheet" href="../css/blog.css">
+</head>
+<body>
+  <header>
+    <h1>Cryptonoid: my first vibe-coded game</h1>
+    <p><strong>Published:</strong> August 3, 2025</p>
+    <p>I used perplexity's Lab feature to build simple game.</p>
+  </header>
+
+  <main>
+    <article>
+      <p>
+      <b>I</b> tried Lab's feature to vibe-code came for the first time, here it's how it went.
+      Unfortunately, I accidentally deleted the thread, and kept only finished game, so here is what I remembered.
+      </p>
+
+      <p>
+      <b>G</b>oal was to create Arcanoid-like game, where the "obstacle" would not be brick wall, but orderbook from some crypto exchange.
+      In total, I finished with something reasonable in 3 prompts, you can see it <a href="CryptoBreakers/index.html">here</a>.
+      Each prompt took about 10 minutes, which wrote also some python code (which is weird that it's web game in javascript).
+      </p>
+
+      <p>
+        <b>F</b>irst version stacked orderbook vertically -- i.e. there were 2 columns, 1 for bids, 1 for asks.
+      Also, also game was always showing "loading" overlay, but working.
+      I asked to show order book price levels side by side, not stack them vertically.
+      </p>
+
+      <p>
+      <b>A</b>fter 10 minutes, I got improved game.
+      "Loading screen" bug was fixed without me asking for it, but still there were things to fixed.
+      There was very narrow gap between the ship and blocks, so you would loose quickly.
+      I asked to align pricelevels to the top, so there is even more gap between ship and blocks.
+      I asked for each price-level to be split into boxes that are vertically stacked (originally I told it to have single tall box, but it turns out to be silly).
+      Finally, there was visual bug and bids and asks were overlayed, I asked perplexity to fix it.
+      </p>
+
+      <p>
+      <b>A</b>fter another 10 minutes, I got final game <a href="CryptoBreakers/index.html">here</a>.
+      </p>
+
+      <p>
+      <b>C</b>losing thoughts:
+      It was pretty fun exercise.
+      I have not reviewed code properly at the time of writing, but game seems to works at least a little.
+      Also, with each version, it produced very fluffy description of what it did.
+      Overstating achievements, making it look like ground-breaking changes.
+      I believe perplexity would not be lost in the corporate world :-D
+
+      </p>
+
+    </article>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Mic's Blog.</p>
+  </footer>
+</body>
+</html>
